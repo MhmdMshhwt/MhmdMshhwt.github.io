@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.aff555f0.css",
-    "main.js": "/static/js/main.be8e1d5a.js",
-    "static/js/592.1e21fe73.chunk.js": "/static/js/592.1e21fe73.chunk.js",
-    "static/media/pexels-agnieszka-palmowska-631909.jpg": "/static/media/pexels-agnieszka-palmowska-631909.da07707cb2c62407d8e7.jpg",
-    "index.html": "/index.html",
-    "main.aff555f0.css.map": "/static/css/main.aff555f0.css.map",
-    "main.be8e1d5a.js.map": "/static/js/main.be8e1d5a.js.map",
-    "592.1e21fe73.chunk.js.map": "/static/js/592.1e21fe73.chunk.js.map"
+    "main.css": "/MhmdMshhwt.github.io/static/css/main.aff555f0.css",
+    "main.js": "/MhmdMshhwt.github.io/static/js/main.bb54c251.js",
+    "static/js/592.1e21fe73.chunk.js": "/MhmdMshhwt.github.io/static/js/592.1e21fe73.chunk.js",
+    "static/media/pexels-agnieszka-palmowska-631909.jpg": "/MhmdMshhwt.github.io/static/media/pexels-agnieszka-palmowska-631909.da07707cb2c62407d8e7.jpg",
+    "index.html": "/MhmdMshhwt.github.io/index.html",
+    "main.aff555f0.css.map": "/MhmdMshhwt.github.io/static/css/main.aff555f0.css.map",
+    "main.bb54c251.js.map": "/MhmdMshhwt.github.io/static/js/main.bb54c251.js.map",
+    "592.1e21fe73.chunk.js.map": "/MhmdMshhwt.github.io/static/js/592.1e21fe73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aff555f0.css",
-    "static/js/main.be8e1d5a.js"
+    "static/js/main.bb54c251.js"
   ]
 }
